@@ -1,0 +1,13 @@
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\bin\Debug\netcoreapp3.1\uri_1040.exe
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\bin\Debug\netcoreapp3.1\uri_1040.deps.json
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\bin\Debug\netcoreapp3.1\uri_1040.runtimeconfig.json
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\bin\Debug\netcoreapp3.1\uri_1040.runtimeconfig.dev.json
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\bin\Debug\netcoreapp3.1\uri_1040.dll
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\bin\Debug\netcoreapp3.1\uri_1040.pdb
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.csprojAssemblyReference.cache
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.AssemblyInfoInputs.cache
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.AssemblyInfo.cs
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.csproj.CoreCompileInputs.cache
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.dll
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.pdb
+C:\Users\AironMit\source\repos\uri_1040\uri_1040\obj\Debug\netcoreapp3.1\uri_1040.genruntimeconfig.cache
