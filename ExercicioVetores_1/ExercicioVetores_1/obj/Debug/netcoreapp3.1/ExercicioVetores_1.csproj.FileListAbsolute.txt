@@ -1,0 +1,13 @@
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\ExercicioVetores_1.exe
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\ExercicioVetores_1.deps.json
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\ExercicioVetores_1.runtimeconfig.json
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\ExercicioVetores_1.runtimeconfig.dev.json
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\ExercicioVetores_1.dll
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\ExercicioVetores_1.pdb
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.csprojAssemblyReference.cache
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.AssemblyInfoInputs.cache
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.AssemblyInfo.cs
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.csproj.CoreCompileInputs.cache
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.dll
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.pdb
+C:\Users\AironMit\source\repos\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\ExercicioVetores_1.genruntimeconfig.cache
