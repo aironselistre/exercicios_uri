@@ -1,1 +1,1 @@
-Lista de exercícios realizados na plataforma urionlinejudge.com.br do curso de introdução C#
+Lista de exercícios realizados na plataforma urionlinejudge.com.br do curso de introdutório C#
