@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\poaair02\\source\\repos\\exercicios_uri\\ExercicioVetores_1\\ExercicioVetores_1\\ExercicioVetores_1.csproj",
-      "projectName": "ExercicioVetores_1",
-      "projectPath": "C:\\Users\\poaair02\\source\\repos\\exercicios_uri\\ExercicioVetores_1\\ExercicioVetores_1\\ExercicioVetores_1.csproj",
+      "projectUniqueName": "C:\\Users\\poaair02\\source\\repos\\exercicios_uri\\ExercicioVetores_1\\ExercicioVetores_1\\Vetores_1.csproj",
+      "projectName": "Vetores_1",
+      "projectPath": "C:\\Users\\poaair02\\source\\repos\\exercicios_uri\\ExercicioVetores_1\\ExercicioVetores_1\\Vetores_1.csproj",
       "packagesPath": "C:\\Users\\poaair02\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\poaair02\\source\\repos\\exercicios_uri\\ExercicioVetores_1\\ExercicioVetores_1\\obj\\",
       "projectStyle": "PackageReference",

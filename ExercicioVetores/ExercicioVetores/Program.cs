@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioVetores
+namespace Vetores_0
 {
     class Program
     {

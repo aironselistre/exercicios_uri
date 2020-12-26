@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace ExercicioVetores_2
+namespace Vetores_2
 {
     class Program
     {
         static void Main(string[] args)
-        
+
         /*
          *Faça um programa que leia N números inteiros e armazene-os em um vetor. Em seguida, mostre na tela:
          - Todos os números pares
@@ -23,7 +23,7 @@ namespace ExercicioVetores_2
             // Valores do vetor
             string[] vet = Console.ReadLine().Split(' ');
 
-            for (int i=0; i<N; i++)
+            for (int i = 0; i < N; i++)
             {
                 // Armazenando valores do vetor
                 valores[i] = int.Parse(vet[i]);
@@ -31,12 +31,13 @@ namespace ExercicioVetores_2
                 if (valores[i] % 2 == 0)
                 {
                     // Printando valores pares
-                    Console.WriteLine(valores[i] + " ");
+                    Console.Write(valores[i] + " ");
                     soma = soma + 1;
                 }
             }
             // Printando soma dos valores pares
-            Console.Write(soma);
+            Console.WriteLine(" ");
+            Console.WriteLine(soma);
 
         }
     }

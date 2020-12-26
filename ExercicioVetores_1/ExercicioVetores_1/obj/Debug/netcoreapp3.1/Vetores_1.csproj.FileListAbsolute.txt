@@ -1,0 +1,12 @@
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\Vetores_1.exe
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\Vetores_1.deps.json
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\Vetores_1.runtimeconfig.json
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\Vetores_1.runtimeconfig.dev.json
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\Vetores_1.dll
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\bin\Debug\netcoreapp3.1\Vetores_1.pdb
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\Vetores_1.AssemblyInfoInputs.cache
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\Vetores_1.AssemblyInfo.cs
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\Vetores_1.csproj.CoreCompileInputs.cache
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\Vetores_1.dll
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\Vetores_1.pdb
+C:\Users\poaair02\source\repos\exercicios_uri\ExercicioVetores_1\ExercicioVetores_1\obj\Debug\netcoreapp3.1\Vetores_1.genruntimeconfig.cache
