@@ -19,7 +19,7 @@ namespace ExercicioVetores_1
             // Lendo N valores para definir tamanho do vetor
             N = int.Parse(Console.ReadLine());
 
-            // Criando vetor
+            // Instanciando vetor
             valores = new double[N];
 
             // Lendo valores do vetor
